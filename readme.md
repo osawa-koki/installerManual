@@ -23,10 +23,15 @@
 - Rust
 - Haskell
 - Ocaml
+- Scala
 - Node.js
 - Ruby
 - Perl
 - Python
+- Java
+- Fortran
+- C#
+- F#
 
 
 ## ミドルウェア
@@ -37,4 +42,6 @@
 - MongoDB
 - Git
 - Docker
+- Apache
+- Nginx
 
