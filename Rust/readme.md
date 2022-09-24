@@ -13,6 +13,23 @@ sudo apt upgrade
 ```
 
 
+## Rustに必要なモジュールのインストール
+
+RustではC言語のコンパイラやその他もろもろの機能が必要ですので、それをインストールします。  
+それっぽいツールは「build-essential」にまとめられているため、それをインストールします。  
+
+```bash
+sudo apt install build-essential
+```
+
+C言語コンパイラだけでイイって方はそれだけインストールして下さい。  
+これだけでもRustを実行することは可能です。  
+
+```bash
+sudo apt install gcc
+```
+
+
 ## Rust インストール
 
 ```bash
