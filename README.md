@@ -12,33 +12,3 @@
 | プラットフォーム | バージョン |
 | ---- | ---- |
 | Linux / Ubuntu | 20.4.5 |
-
-## 対象言語
-
-### プログラミング言語
-
-- GO
-- C/C++
-- Rust
-- Haskell
-- Ocaml
-- Scala
-- Node.js
-- Ruby
-- Perl
-- Python
-- Java
-- Fortran
-- C#
-- F#
-
-### ミドルウェア
-
-- MySQL
-- SQLite
-- PostgreSQL
-- MongoDB
-- Git
-- Docker
-- Apache
-- Nginx
