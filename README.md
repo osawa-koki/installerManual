@@ -5,7 +5,7 @@
 
 また、ミドルウェアのインストール手順についても補足的に説明しています。  
 
-# プラットフォーム
+## プラットフォーム
 
 以下のプラットフォームに環境を構築することを想定しています。
 
@@ -13,23 +13,26 @@
 | ---- | ---- |
 | Linux / Ubuntu | 20.4.5 |
 
+## 対象言語
 
-# 対象言語
-
-## プログラミング言語
+### プログラミング言語
 
 - GO
 - C/C++
 - Rust
 - Haskell
 - Ocaml
+- Scala
 - Node.js
 - Ruby
 - Perl
 - Python
+- Java
+- Fortran
+- C#
+- F#
 
-
-## ミドルウェア
+### ミドルウェア
 
 - MySQL
 - SQLite
@@ -37,4 +40,5 @@
 - MongoDB
 - Git
 - Docker
-
+- Apache
+- Nginx
